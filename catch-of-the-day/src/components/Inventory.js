@@ -1,0 +1,9 @@
+import React, { Fragment } from "react";
+
+class Inventory extends React.Component {
+  render() {
+    return <div className="inventory" />;
+  }
+}
+
+export default Inventory;
